@@ -9,7 +9,7 @@ Demonstrate the capabilities of OpenAI's chatbot in handling multiple Excel and 
 Clone the repository to your local machine:
 
 ```bash
-git clone http://172.16.10.12:3000/foram/chatgpt_langchain_demo.git
+git clone https://github.com/Sanjay3739/Multiple-Pdf-excel-chat-application.git	
 ```
 
 ### Step 2: Create a Virtual Environment
